@@ -1,0 +1,18 @@
+package desktopview.view;
+
+public enum TabType {
+
+    DASHBOARD,
+    APPLICANTSTAB,
+    ADMINREGISTRATIONTAB,
+    JOBSTAB,
+    COMPANIESTAB,
+    FEEDBACKSTAB,
+    SETTINGSTAB,
+    MYACCOUNTTAB,
+    ADMINSTAB,
+
+    HELPTAB,
+    JOBAPPLICATIONTAB
+
+}
